@@ -1,0 +1,13 @@
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.deps.json
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.json
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.runtimeconfig.dev.json
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.dll
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.AssemblyInfo.cs
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\ContosoUniversity.pdb
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.dll
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\obj\Debug\netcoreapp1.1\ContosoUniversity.pdb
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\Contoso.Data.dll
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\Contoso.Domain.dll
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\Contoso.Data.pdb
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoUniversity\bin\Debug\netcoreapp1.1\Contoso.Domain.pdb

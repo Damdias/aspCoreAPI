@@ -1,0 +1,9 @@
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\bin\Debug\netcoreapp1.1\ContosoWeb.deps.json
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\bin\Debug\netcoreapp1.1\ContosoWeb.runtimeconfig.json
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\bin\Debug\netcoreapp1.1\ContosoWeb.runtimeconfig.dev.json
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\bin\Debug\netcoreapp1.1\ContosoWeb.dll
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\bin\Debug\netcoreapp1.1\ContosoWeb.pdb
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\obj\Debug\netcoreapp1.1\ContosoWeb.csprojResolveAssemblyReference.cache
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\obj\Debug\netcoreapp1.1\ContosoWeb.AssemblyInfo.cs
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\obj\Debug\netcoreapp1.1\ContosoWeb.dll
+F:\My Work\Projects\ASP.Net Core\ContosoUniversity\ContosoWeb\obj\Debug\netcoreapp1.1\ContosoWeb.pdb
